@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="#">Ask</a></li>
+                <li><a href="./about.html">About</a></li>
+                <li><a href="https://www.bajajfinserv.in/reach-us">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <form>
+        <label for="query">Search:</label>
+        <input type="text" id="query" name="query">
+        <button type="submit" id="search-button">Search</button>
+    </form>
+
+
+    <style>
+      .navbar{
+        background-color: black;
+      }
+
+      .navbar li{
+          float:left;
+          list-style: none; 
+          margin: 13px 20px;
+      }
+
+      .navbar ul{
+          overflow: auto;
+      }
+
+      .navbar li a{
+          padding: 3px 3px;
+          text-decoration: none;
+          color: white;
+      }
+    </style>
+
+    <script>
+      const searchButton = document.getElementById("search-button");
+        searchButton.addEventListener("click", function(event) {
+        event.preventDefault();
+        const query = document.getElementById("query").value;
+        //make API call using the query
+        const apiKey = "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";
+        const endpoint = "https://api.openai.com/v1/engines/davinci-codex/completions";
+        const data = {
+          prompt: query,
+          max_tokens: 2048,
+          stop: "."
+        };
+      
+        const options = {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${apiKey}`
+          },
+          body: JSON.stringify(data)
+        };
+      
+        fetch(endpoint, options)
+          .then(response => response.json())
+          .then(data => {
+            //handle the response from the API
+            fetch(endpoint, options)
+          .then(response => response.json())
+          .then(data => {
+            // Extract the generated text from the API response
+            const generatedText = data.choices[0].text;
+            // Select the element on the page where you want to display the results
+            const resultsContainer = document.getElementById("results-container");
+            // Update the text content of the element with the generated text
+            resultsContainer.textContent = generatedText;
+          })
+          .catch(error => {
+            console.log(error);
+          });
+          })
+          .catch(error => {
+            console.log(error);
+          });
+      });
+    </script>
+
+  </body>
+</html>

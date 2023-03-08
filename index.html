@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js" integrity="sha512-yNJzAsg5JyP91u+sLHlUDULMBd3hmEiVkYeeN1cQBKaLZ7EyT6oH2u5THNIRM2Fu6VKcZJv+F/QAp1h/qzy9Ow==" crossorigin="anonymous"></script>
+    <script src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>TS</title>
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="./ask.html">Ask</a></li>
+                <li><a href="https://www.bajajfinserv.in/reach-us">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="main">
+        <form method="post" action="./main.py">
+            <input id="age" type="number" min="1" max="100" placeholder="Age" required autofocus />
+            <label for="input-1">
+                <span class="label-text">Your Current Age</span>
+                <span class="nav-dot"></span>
+                <div class="signup-button-trigger">Welcome</div>
+            </label>
+            <input id="input-2" type="number" min="1" max="635" placeholder="Weight In kg" required />
+            <label for="input-2">
+                <span class="label-text">Weight</span>
+                <span class="nav-dot"></span>
+            </label>
+
+            <input id="input-3" type="number" min="1" max="300" placeholder="Height In cm" required />
+            <label for="input-3">
+                <span class="label-text">Height</span>
+                <span class="nav-dot"></span>
+            </label>
+
+            <input id="input-4" type="text" placeholder="Male or Female" required />
+            <label for="input-4">
+                <span class="label-text">Gender</span>
+                <span class="nav-dot"></span>
+            </label>
+
+            <input id="input-5" type="text" placeholder="Diabeties(high/low) or Dyslipidemia(high/low)" required />
+            <label for="input-5">
+                <span class="label-text">Disease</span>
+                <span class="nav-dot"></span>
+            </label>
+
+            <button type="submit">Submit</button>
+            <p class="tip">Press Tab</p>
+            <div class="signup-button">Welcome</div>
+        </form>
+    </div>
+
+    <script>
+        let scene;
+        let camera;
+        let renderer;
+        let starGeometry;
+        let stars;
+
+        scene = new THREE.Scene();
+        camera = new THREE.PerspectiveCamera(60,window.innerWidth / window.innerHeight,1,1000);
+        camera.position.z = 10;
+        camera.position.x = Math.PI/2;
+
+        renderer = new THREE.WebGLRenderer();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        starGeometry = new THREE.Geometry();
+        for(let i=0;i<6000;i++){
+            star = new THREE.Vector3(
+                Math.random() * 700 - 300,
+                Math.random() * 700 - 300,
+                Math.random() * 700- 300
+            );
+            star.velocity = 0;
+            star.acceleration = 0.00004;
+            starGeometry.vertices.push(star);
+        }
+
+        let sprite = new THREE.TextureLoader().load('images/star.png');
+        let starMaterial = new THREE.PointsMaterial({
+            color: 0xaaaaaa,
+            size: 0.8,
+            map: sprite
+        });
+
+        stars = new THREE.Points(starGeometry,starMaterial);
+        scene.add(stars);
+
+        animate();
+
+        function animate(){
+            starGeometry.vertices.forEach(p=>{
+                p.velocity += p.acceleration;
+                p.y -= p.velocity;
+                if(p.y<-200){
+                    p.y = 200;
+                    p.velocity = 0
+                }
+            });
+            starGeometry.verticesNeedUpdate = true;
+            stars.rotation.y += 0.0002;
+            stars.rotation.x = -0.5;
+            renderer.render(scene,camera);
+            requestAnimationFrame(animate);
+        }
+
+    </script>
+</body>
+</html>

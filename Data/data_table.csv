@@ -1,0 +1,252 @@
+Food_Name,Category,Quantity,Calorie,Protein,Carbohydrate,Fat,Diabetes_Type1,Diabates_Type2,Dyslipidemia_HighColestrol,Dyslipidemia_LowColestrol,CKD
+Buckwheat,Breakfast Cereals,100 g,343,13,72,3.4,no,yes,yes,no,yes
+Buckwheat flour whole-groat,Grains and pasta100gm,100 g,335,13,71,3.1,no,yes,yes,no,yes
+Pancakes Buckwheat Dry Mix Incomplete,Baked Foods,100 g,340,2.7,10.9,71.3,no,yes,yes,no,yes
+Snacks Rice Cakes Brown Rice Buckwheat Unsalted,Snacks,100 g,380,3.5,9,80.1,no,yes,yes,no,yes
+Bread and oatmeal,Breakfast Cereals,100 g,269,17,18,6,no,yes,yes,no,no
+Okra,Vegetables,100 g,33,4,3,0,yes,yes,yes,no,yes
+Okra without salt drained boiled cooked frozen,Vegetables,100 g ,29,3,2,0,yes,yes,yes,no,yes
+Barley,Grain,100 g,332,20,28,2,yes,yes,yes,no,yes
+Babyfood dry fortified barley cereal,Grain,100 g,376,26,25,8,yes,yes,yes,no,yes
+Celery,Vegetables,100 g,14,1,1,0,yes,no,yes,no,yes
+Celery with salt drained boiled cooked,Vegetables,100 g,18,2,1,0,yes,no,yes,no,yes
+Soup condensed canned cream of celery,Vegetables,100 g,72,3,3,6,yes,no,yes,no,yes
+Cabbage,Vegetables,100 g,25,3,2,0,yes,yes,yes,no,yes
+"Cabbage pickled fresh japanese style
+",Vegetables,100 g,30,3,2,0,yes,yes,yes,no,yes
+"Cabbage kimchi
+",Vegetables,100 g,15,2,1,1,yes,yes,yes,no,yes
+Eggplant,Fruits,100 g,25,2,2,0,yes,yes,yes,no,yes
+ggplant with salt drained boiled cooked,Fruits,100 g,33,2,3,0,yes,yes,yes,no,yes
+Avocado,Fruits,100 g,120,4,3,13,yes,yes,yes,no,no
+Oil avocado,Fruits,100 g,884,0,0,128,no,no,yes,yes,no
+Garlic,Vegetables,100 g,149,13,12,1,yes,yes ,yes,no,yes
+Fast foods prepared with garlic and parmesan cheese soft breadstick,Fast foods,100 g,343,24,16,17,no,no,no,no,no
+Lutein,Vegetables,100 g,371,72,15,12,no,no,yes,no,no
+Lupins with salt boiled cooked mature seeds,,100 g,116,32,3,4,no,no,yes,no,no
+Nuts,Fruit,100 g,387,12,15,31,no,yes,yes,no,no
+Seeds,Seeds,100 g,89,8,6,1,no,no,yes,no,no
+Mixed Beans,Vegetables,100 g,37,3,1,0,yes,yes,yes,no,no
+Salmon Fish ,Fish,100 g,127,42,0,6,no,no,yes,no,yes
+Fish Herring Atlantic Raw,Fish,100 g,158,17.96,0,9.04,no,no,yes,no,yes
+Atlantic Herring,Fish,100 g,203,23.03,0,11.59,no,no,yes,no,yes
+Pickled Herring,Fish,100 g,262,14.19,9.64,18,no,no,yes,no,yes
+Fish Tuna Light Canned In Water Without Salt Drained Solids,Fish,100 g,116,25.51,0,0.82,yes,yes,yes,no,yes
+Fish Tuna White Canned In Oil Without Salt Drained Solids,Fish,100 g,186,26.53,0,8.08,yes,yes,yes,no,yes
+Fish Tuna White Canned In Water Without Salt Drained Solids,Fish,100 g,128,23.62,0,2.97,yes,yes,yes,no,yes
+Sardine Oil,Fats and Oils,100 g,902,0,0,100,yes,yes,yes,no,yes
+Canned Sardines,Fish,100 g,208,24.62,0,11.45,yes,yes,yes,no,yes
+Sardines Dried,Fish,100 g,406,46.06,0,23.18,yes,yes,yes,no,yes
+Tomatoes Raw Green,Vegetables,100 g,23,1.2,5.1,0.2,no,no,yes,no,no
+Tomatoes Raw Orange,Vegetables,100 g,16,1.2,3.2,0.2,no,no,yes,no,no
+Tomatoes Sun Dried,Vegetables,100 g,258,14,56,3,no,no,yes,no,no
+Tomatoes Canned Crushed,Vegetables,100 g,32,1.6,7.3,0.3,no,no,yes,no,no
+Butter Clarified,Dairy,100 g,900,0,0,100,yes,yes,no,yes,no
+Butter Without Salt,Dairy,100 g,717,0.9,0.1,81,yes,yes,no,yes,no
+Butter Stick Light,Dairy,100 g,499,3.3,0,55,yes,yes,no,yes,no
+Salted Butter,Dairy and Egg Products,100 g,717,0.85,0.06,81.11,yes,yes,no,yes,no
+Whipped Butter (Salted),Dairy and Egg Products,100 g,731,0.49,0,78.3,yes,yes,no,yes,no
+Lasagna Cheese Frozen Unprepared,Prepared Meals,100 g,145,5.06,21.61,4.22,yes,yes,no,yes,no
+Mozzarella Cheese (Non-Fat Or Fat Free),Dairy and Egg Products,100 g,141,31.7,3.5,0,yes,yes,no,yes,no
+Cheese Swiss Low Fat,Dairy and Egg Products,100 g,179,28.4,3.4,5.1,yes,yes,no,yes,no
+Fontina Cheese,Dairy and Egg Products,100 g,389,25.6,1.55,31.14,yes,yes,no,yes,no
+Monterey Cheese,Dairy and Egg Products,100 g,373,24.48,0.68,30.28,yes,yes,no,yes,no
+Mozzarella,Dairy and Egg Products,100 g,299,22.17,2.4,22.14,yes,yes,no,yes,no
+Mozzarella (Hard),Dairy and Egg Products,100 g,318,21.6,2.47,24.64,yes,yes,no,yes,no
+Mozzarella (Lowfat),Dairy and Egg Products,100 g,254,24.26,2.77,15.92,yes,yes,no,yes,no
+Caraway Cheese,Dairy and Egg Products,100 g,376,25.18,3.06,29.2,yes,yes,no,yes,no
+Cheddar Cheese,Dairy and Egg Products,100 g,403,22.87,3.37,33.31,yes,yes,no,yes,no
+Chesire Cheese,Dairy and Egg Products,100 g,387,23.37,4.78,30.6,yes,yes,no,yes,no
+Colby Cheese,Dairy and Egg Products,100 g,394,23.76,2.57,32.11,yes,yes,no,yes,no
+Lowfat Cottage Cheese (1%),Dairy and Egg Products,100 g,72,12.39,2.72,1.02,yes,yes,no,yes,no
+Cream Cheese,Dairy and Egg Products,100 g,350,6.15,5.52,34.44,yes,yes,no,yes,no
+Edam Cheese,Dairy and Egg Products,100 g,357,24.99,1.43,28.57,yes,yes,no,yes,no
+Feta Cheese,Dairy and Egg Products,100 g,265,14.21,3.88,21.49,yes,yes,no,yes,no
+Beef Retail Cuts Separable Fat Raw,Meats,100 g,674,8.21,0,70.89,no,no,no,yes,yes
+Beef Retail Cuts Separable Fat Cooked,Meats,100 g,680,10.65,0,70.33,no,no,no,yes,yes
+Beef Grass-Fed Ground Raw,Meats,100 g,198,19.42,0,12.73,no,no,no,yes,yes
+Beef Rib Shortribs Separable Lean Only Choice Raw,Meats,100 g,175,19.05,0.4,10.19,no,no,no,yes,yes
+Beef Ground 70% Lean Meat / 30% Fat Patty Cooked Broiled,Meats,100 g,277,25.38,0,18.66,no,no,no,yes,yes
+Beef Ground 70% Lean Meat / 30% Fat Raw,Meats,100 g,332,14.35,0,30,no,no,no,yes,yes
+Egg Yolk,Meats,100 g,322,16,3.6,27,yes,yes,no,yes,yes
+Muffin Whole Wheat,Baked Foods,100 g,355,7.2,44.46,17.86, no,no,no,yes,no
+Muffin Wheat,Baked Foods,100 g,360,6.61,45.76,17.4, no,no,no,yes,no
+Muffin Whole Grain,Baked Foods,100 g,360,6.61,45.76,17.4, no,no,no,yes,no
+Muffin Wheat Bran,Baked Foods,100 g,215,6.22,39.09,5.83, no,no,no,yes,no
+Muffin Oatmeal,Baked Foods,100 g,362,6.33,43.96,18.29, no,no,no,yes,no
+Muffin Plain,Baked Foods,100 g,368,5.77,51.88,15.62, no,no,no,yes,no
+Muffin Cheese,Baked Foods,100 g,360,9.5,30.32,22.28, no,no,no,yes,no
+Muffin Pumpkin,Baked Foods,100 g,300,4.84,43.08,12.45, no,no,no,yes,no
+Muffin Zucchini,Baked Foods,100 g,300,4.92,42.51,12.66, no,no,no,yes,no
+Muffin Carrot,Baked Foods,100 g,307,4.88,44.14,12.71, no,no,no,yes,no
+Kfc Fried Chicken Original Recipe Skin And Breading,Fast Foods,100 g,384,14.17,18.79,28.01,yes,no,no,yes,yes
+Kfc Fried Chicken Original Recipe Breast Meat Only Skin And Breading Removed,Fast Foods,100 g,149,26.89,0,4.56,yes,no,no,yes,yes
+Kfc Fried Chicken Original Recipe Drumstick Meat Only Skin And Breading Removed,Fast Foods,100 g,175,26.3,0.11,7.66,yes,no,no,yes,yes
+Kfc Fried Chicken Original Recipe Thigh Meat Only Skin And Breading Removed,Fast Foods,100 g,175,22.78,0.01,9.31,yes,no,no,yes,yes
+Kfc Fried Chicken Extra Crispy Thigh Meat Only Skin And Breading Removed,Fast Foods,100 g,179,22.41,0,9.96,yes,no,no,yes,yes
+Kfc Fried Chicken Extra Crispy Wing Meat Only Skin And Breading Removed,Fast Foods,100 g,236,28.67,2.97,12.13,yes,no,no,yes,yes
+Kfc Fried Chicken Original Recipe Breast Meat And Skin With Breading,Fast Foods,100 g,231,21.94,6.28,13.11,yes,no,no,yes,yes
+Kfc Fried Chicken Original Recipe Drumstick Meat And Skin With Breading,Fast Foods,100 g,239,22.3,5.39,14.22,yes,no,no,yes,yes
+Kfc Fried Chicken Extra Crispy Thigh Meat And Skin With Breading,Fast Foods,100 g,309,17.17,10.3,22.14,yes,no,no,yes,yes
+Kfc Fried Chicken Extra Crispy Wing Meat And Skin With Breading,Fast Foods,100 g,337,20.8,11.66,23,yes,no,no,yes,yes
+Low-Fat Yogurt,Dairy and Egg Products,100 g,63,5.25,7.04,1.55,no,no,no,yes,no
+Non-Fat Yogurt,Dairy and Egg Products,100 g,56,5.73,7.68,0.18,no,no,no,yes,no
+Whole Milk,Dairy and Egg Products,100 g,61,3.15,4.8,3.25,no,no,no,yes,no
+High Fat Milk (3.7% Fat),Dairy and Egg Products,100 g,64,3.28,4.65,3.66,no,no,no,yes,no
+Low-Fat Milk 2%,Dairy and Egg Products,100 g,50,3.3,4.8,1.98,no,no,no,yes,no
+Bacon (Raw),Meats,100 g,393,13.66,0,37.13,no, no,no,yes,no
+Shellfish,Prepared Meals,100 g,116,8.75,15.94,1.85,yes,yes,no,yes,no
+Shrimps,Seafood,100 g,99,24,0.2,0.3,yes,yes,no,no,no
+Fish Mackerel Spanish Raw,Fish,100 g,139,19.29,0,6.3,no,no,yes,no,no
+Fish Mackerel Spanish Cooked Dry Heat,Fish,100 g,158,23.59,0,6.32,no,no,yes,no,no
+Apple,Fruits,100 g, ,,,,yes,yes,yes,no,yes
+Apples Raw Without Skin Cooked Boiled,Fruits,100 g,53,0.26,13.64,0.36,yes,yes,yes,no,yes
+Apples Raw Without Skin Cooked Microwave,Fruits,100 g,56,0.28,14.41,0.42,yes,yes,yes,no,yes
+Apples Canned Sweetened Sliced Drained Heated,Fruits,100 g,67,0.18,16.84,0.43,yes,yes,yes,no,yes
+Apples Dehydrated (Low Moisture) Sulfured Uncooked,Fruits,100 g,346,1.32,93.53,0.58,yes,yes,yes,no,yes
+Apples Frozen Unsweetened Heated,Fruits,100 g,47,0.29,12,0.33,yes,yes,yes,no,yes
+Dried Plums,Dried Fruits,100 g,240,2.18,63.88,0.38,yes,yes,yes,no,yes
+Citrus Fruits,Mixed Fruits,100 g,52,0.75,13.16,0.23,no,no,yes,yes,yes
+Grapes,Fruits,100 g,32,0.63,8.08,0.1,no,no,yes,yes,yes
+Black Tea,Tea,100 g,1,0,0.3,0,yes,yes,yes,no,yes
+Cocoa Mix Powder,Beverages,100 g,398,6.67,83.73,4,no,no,yes,no,yes
+Banana,Fruits,100 g,89,1.09,22.84,0.33,no,no,yes,no,no
+Cauliflower,Vegetables,100 g,31,2.95,6.09,0.3,yes,yes,no,yes,yes
+Onion,Vegetables,100 g,40,1.1,9.34,0.1,yes,yes,no,no,yes
+Cranberries,Fruits,100 g,46,0.46,11.97,0.13,yes,yes,no,yes,yes
+Blueberries,Fruits,100 g,57,0.74,14.49,0.33,yes ,yes,yes,yes,yes
+Raspberries,Fruits,100 g,52,1.2,11.94,0.65,yes,yes,yes,yes,yes
+Strawberries,Fruits,100 g,32,0.67,7.68,0.3,yes,yes,no,no,yes
+Sour Cherries,Fruits,100 g,63,1.06,16.01,0.2,yes,yes,yes,yes,yes
+Egg Whites,Vegetables,100 g,52,10.9,0.73,0.17,yes,yes,yes,yes,yes
+Peanut Oil,Vegetables Oil,100 g,884,0,0,100,yes,yes,yes,yes,yes
+Corn Oil,Vegetables Oil,100 g,900,0,0,100,no,no,yes,yes,yes
+Green Bell Peppers,Vegetables,100 g,20,0.86,4.64,0.17,yes,yes,yes,yes,yes
+Cooked Green Bell Peppers,Vegetables,100 g,28,0.92,6.7,0.2,yes,yes,yes,yes,yes
+Summer Squash,Vegetables,100 g,16,1.21,3.35,0.18,null,null,null,null,yes
+Green Leaf Lettuce,Vegetables,100 g,15,1.36,2.87,0.15,null,null,null,null,yes
+Bread Pita Toasted,Baked Foods,100 g,302,10,61.21,1.32,null,null,null,null,yes
+Bread Pita With Fruit,Baked Foods,100 g,279,8.2,59.19,1.09,null,null,null,null,yes
+Bread Pita With Fruit Toasted,Baked Foods,100 g,306,9.02,65.04,1.2,null,null,null,null,yes
+White Rice,Grains And Pasta,100 g,130,2.69,28.17,0.28,no,no,,,yes
+Unsalted Popcorn,Snack S,100 g,538,8.69,55.99,31.07,null,yes,yes,no,yes
+Cooked Sea Bass,Fish,100 g,124,23.63,0,2.56,null,null,null,null,yes
+Arugula,Vegetables,100 g,25,2.58,3.65,0.66,null,null,null,null,yes
+Macadamia Nuts,Nuts And Seeds,100 g,718,7.91,13.82,75.77,null,null,null,null,yes
+Radish,Vegetables,100 g,16,0.68,3.4,0.1,null,null,null,null,yes
+Turnips,Vegetabls,100 g,28,0.9,6.43,0.1,null,null,null,null,yes
+Shiitake Mushrooms,Vegetables,100 g,34,2.24,6.79,0.49,null,null,null,null,yes
+Plums,Fruits,100 g,46,0.7,11.42,0.28,null,null,null,null,yes
+Watermelon,Fruits,100 g,30,0.61,7.55,0.15,null,null,null,null,yes
+Cucumbers,Vegetables,100 g,15,0.65,3.63,0.11,yes,yes,yes,yes,yes
+Lard,Fats And Oils,100 g,902,0,0,100,null,null,null,null,no
+Prunes,Fruits,100 g,339,3.7,89.07,0.73,null,null,null,null,no
+Raisins,Fruits,100 g,299,3.3,79.32,0.25,null,null,null,null,no
+Artichokes,Vegetables,100 g,47,3.27,10.51,0.15,null,null,null,null,no
+Winter Squash,Vegetables,100 g,34,0.95,8.59,0.13,null,yes,null,null,no
+Plantains,Vegetables,100 g,122,1.3,31.89,0.35,null,null,null,null,no
+Potatoes,Vegetables,100 g,106,1.97,13.29,5.01,yes,no,null,null,no
+Granola,Snacks,100 g,489,13.67,53.88,24.31,null,null,null,null,no
+Whole-Grain Bread,Baked Foods,100 g,309,7.25,49.09,9.34,null,null,null,null,no
+Oatmeal,Grains,100 g,71,2.54,12,1.52,null,null,null,null,no
+Sunflower Seeds,Nuts And Seeds,100 g,584,20.78,20,51.46,null,null,null,null,no
+Dark-Colored Colas,Beverages,100 g,42,0,10.36,0.25,null,null,null,null,no
+Olives,Fruits,100 g,116,0.84,6.04,10.9,null,null,null,null,no
+Jumbo Olives,Fruits,100 g,81,0.97,5.61,6.87,null,null,null,null,no
+Green Olives,Fruits,100 g,145,1.03,3.84,15.32,null,null,null,null,no
+Relish,Null,100 g,36,0.69,8.65,0.15,null,null,null,null,no
+Apricots,Fruits,100 g,48,1.4,11.12,0.39,null,null,null,null,no
+Swiss Chard,Vegetables,100 g,19,1.8,3.74,0.2,yes,yes,yes,no,no
+Beet Greens,Vegetables,100 g,22,2.2,4.33,0.13,yes,yes,yes,no,no
+Dates,Fruits,100 g,282,2.45,75.03,0.39,yes,yes,yes,no,no
+Snacks Pretzels Hard Plain Salted,Snacks,100 g,384,10.04,80.39,2.93,no,no,yes,no,no
+Snacks Pretzels Hard Confectioners Coating Chocolate-Flavor,Snacks,100 g,457,7.5,70.9,16.7,no,no,yes,no,no
+Cantaloupe Melons,Fruits,100 g,34,0.8,8.2,0.2,yes,yes,yes,no,no
+Honeydew Melons,Fruits,100 g,36,0.54,9.09,0.14,no ,yes,yes,no,no
+White Bread,Baked Foods,100 g,266,8.85,49.42,3.33,no ,no,yes,yes,yes
+White Rice,Grains and Pasta,100 g,130,2.69,28.17,0.28,no ,no,yes,yes,yes
+Palm Oil,Fats and Oils,100 g,884,0,0,100,no ,no,no,yes,no
+Pumpkin Raw,Vegetables,100 g,26,1,6.5,0.1,no ,no,yes,yes,no
+Pumpkin Cooked,Vegetables,100 g,20,0.72,4.9,0.07,no ,no,yes,yes,no
+Pineapple,Fruits,100 g,45,0.55,11.82,0.13,no ,no,yes,no,no
+Honey,Sweets,100 g,304,0.3,82.4,0,no ,no,yes,no,yes
+Cinnamon,Spices and Herbs,100 g,247,3.99,80.59,1.24,yes,yes,yes,yes,yes
+Chia Seeds,Nuts and Seeds,100 g,486,16.54,42.12,30.74,yes,yes,yes ,yes,no
+Turmeric,Spices and Herbs,100 g,312,9.68,67.14,3.25,yes,yes,yes,yes,yes
+Almonds,Nuts and Seeds,100 g,607,20.33,20.38,53.96,yes,yes,yes,yes,yes
+Walnuts,Nuts and Seeds,100 g,500,8.28,47.59,35.71,yes,yes,yes,yes,no
+Cashew Nuts,Nuts and Seeds,100 g,583,14.85,31.71,47.96,yes,yes,yes,yes,no
+Hazelnuts,Nuts and Seeds,100 g,628,14.95,16.7,60.75,yes,yes,yes,yes,no
+Peanut,Nuts and Seeds,100 g,697,8.9,13.44,72.81,yes,yes,yes,yes,no
+Spinach,Vegetables,100 g,23,2.86,3.63,0.39,yes,yes,yes,yes,no
+Olive Oil,Fats and Oils,100 g,884,0,0,100,yes,yes,yes,yes,yes
+Apple Cider Vinegar,Spices and Herbs,100 g,21,0,0.93,0,yes,yes,yes,yes,no
+Quinoa Uncooked,Grains and Pasta,,368,14.12,64.16,6.07,yes,yes,yes,yes,no
+Quinoa Cooked,Grains and Pasta,,120,4.4,21.3,1.92,yes,yes,yes,yes,no
+Quinoa Fat Added In Cooking,Grains and Pasta,,140,4.18,20.22,4.74,yes,yes,yes,yes,no
+Oats Instant Fortified Plain Dry,Breakfast Cereals,,362,11.92,69.52,6.9,yes,yes,yes,yes,no
+Oats Instant Fortified Plain Prepared With Water (Boiling Water Added Or Microwaved),Breakfast Cereals,,68,2.37,11.67,1.36,yes,yes,yes,yes,no
+Quaker Quick Oats Dry,Breakfast Cereals,,371,13.7,68.18,6.87,yes,yes,yes,yes,no
+Brown Rice,Grains and Pasta,,123,2.74,25.58,0.97,yes,yes,yes,yes,no
+Cooked Brown Rice,Grains and Pasta,,112,2.32,23.51,0.83,yes,yes,yes,yes,no
+Snacks Brown Rice Chips,Snacks,100 g,384,8.2,81.5,2.8,yes,yes,yes,yes,no
+Whole Wheat Bread,Baked Foods,100 g,252,12.45,42.71,3.5,yes,yes,yes,yes,no
+Toasted Whole Wheat Bread,Baked Foods,100 g,306,16.27,51.16,4.07,yes,yes,yes,yes,no
+Sweet Potatoes,Vegetables,100 g,86,1.57,20.12,0.05,yes,yes,yes,yes,no
+Cooked Sweet Potatoes,Vegetables,100 g,90,2.01,20.71,0.15,yes,yes,yes,yes,no
+Boiled Sweet Potatoes,Vegetables,100 g,76,1.37,17.72,0.14,yes,yes,yes,yes,no
+Sweet Potato Canned Vacuum Pack,Vegetables,100 g,91,1.65,21.12,0.2,yes,yes,yes,yes,no
+Soft Tofu,Beans and Lentils,,61,7.17,1.18,3.69,yes,yes,yes,yes,yes
+Tofu Fried,Beans and Lentils,,270,18.82,8.86,20.18,yes,yes,yes,yes,yes
+Firm Tofu,Beans and Lentils,,144,17.27,2.78,8.72,yes,yes,yes,yes,yes
+Canola Oil,Fats and Oils,100 g,884,0,0,100,null,yes,null,null,null
+Grapeseed Oil,Fats and Oils,100 g,884,0,0,100,null,yes,null,null,null
+Broccoli (Cooked),Vegetables,100 g,35,2.38,7.18,0.41,null,yes,null,null,null
+Broccoli Frozen Chopped Unprepared,Vegetables,100 g,26,2.81,4.78,0.29,null,yes,null,null,null
+Broccoli Frozen Chopped Cooked Boiled Drained Without Salt,Vegetables,100 g,28,3.1,5.35,0.12,null,yes,null,null,null
+Broccoli Frozen Spears Unprepared,Vegetables,100 g,29,3.06,5.35,0.34,null,yes,null,null,null
+Kale,Vegetables,100 g,35,2.92,4.42,1.49,null,yes,null,null,null
+Cooked Kale,Vegetables,100 g,36,2.94,5.3,1.21,null,yes,null,null,null
+Kale Frozen Unprepared,Vegetables,100 g,28,2.66,4.88,0.46,null,yes,null,null,null
+Milllet,Seeds,100 g,119,3.5,24,1,null,yes,null,null,null
+Cooked Bulgur,Grains and Pasta,100 g,83,3.08,18.58,0.24,null,yes,null,null,null
+Bulgur Dry,Grains and Pasta,100 g,342,12.29,75.87,1.33,null,yes,null,null,null
+Cooked Trout,Fish,100 g,150,22.92,0,5.82,null,yes,null,null,null
+Trout Steamed Or Poached,Fish,100 g,177,25.08,0,7.77,null,yes,null,null,null
+Trout Smoked,Fish,100 g,251,35.47,0,10.99,null,yes,null,null,null
+Cooked Red Kidney Beans,Beans and Lentils,100 g,127,8.67,22.8,0.5,null,yes,null,null,null
+Canned Red Kidney Beans,Beans and Lentils,100 g,81,5.22,14.83,0.36,null,yes,null,null,null
+Boiled Red Kidney Beans,Beans and Lentils,100 g,123,9.49,21.85,0.17,null,yes,null,null,null
+Pinto Beans (Cooked),Beans and Lentils,100 g,143,9.01,26.22,0.65,null,yes,null,null,null
+Navy Beans,Beans and Lentils,100 g,113,7.5,20,0.4,null,yes,null,null,null
+Oranges,Fruits,100 g,47,0.94,11.75,0.12,null,yes,null,null,null
+Orange Juice,Juices,100 g,45,0.7,10.4,0.2,null,yes,null,null,null
+Canned Orange Juice,Juices,100 g,47,0.68,11.01,0.15,null,yes,null,null,null
+Orange Peel Raw,Fruits,100 g,97,1.5,25,0.2,null,yes,null,null,null
+Lemons,Fruits,100 g,29,1.1,9.32,0.3,null,yes,null,null,null
+Lemon Juice Raw,Fruits,100 g,22,0.35,6.9,0.24,null,yes,null,null,null
+Lemon Juice From Concentrate Canned Or Bottled,Juices,100 g,17,0.45,5.62,0.07,null,yes,null,null,null
+Lemon Peel Raw,Fruits,100 g,47,1.5,16,0.3,null,yes,null,null,null
+Red Lentils,Beans and Lentils,100 g,230,17.9,39.9,0.8,null,yes,null,null,null
+Green Lentils,Beans and Lentils,100 g,230,17.9,39.9,0.8,null,yes,null,null,null
+"Asparagus, raw",Vegetables,100 g,20,2.2,3.9,0.1,null,yes,null,null,null
+"Asparagus, cooked",Vegetables,100 g,18,3,1.9,0.4,null,yes,null,null,null
+Red Onion,Vegetables,100 g,40,1.1,9.3,0.1,null,yes,null,null,null
+"Squash, raw, baby, zucchini",Vegetables,100 g,21,2.7,3.1,0.4,null,yes,null,null,null
+"Squash, canned, italian style, zucchini, summer",Vegetables,100 g,29,1,6.9,0.1,null,yes,null,null,null
+"Squash, with salt, drained, boiled, cooked, frozen, includes skin, zucchini, summer",Vegetables,100 g,14,1.2,3,0.1,null,yes,null,null,null
+"Edamame, prepared, Frozen",Beans and Lentils,100 g,121,12,8.9,5.2,null,yes,null,null,null
+Carrots (raw),Vegetables,100 g,41,0.9,9.6,0.2,null,yes,null,null,null
+"Carrot Juice, Canned",Juices,100 g,40,1,9.3,0.2,null,yes,null,null,null
+"Carrots, with salt, drained, boiled, cooked",Vegetables,100 g,35,0.8,8.2,0.2,null,yes,null,null,null
+Bok Choy,Vegetables,100 g,12,1.6,1.8,0.2,null,yes,null,null,null
+Bitter Melon,Vegetables,100 g,17,1,3.7,0.17,null,yes,null,null,null
+Bitter Melon (Cooked),Vegetables,100 g,19,0.84,4.32,0.18,null,yes,null,null,null
+Bitter Melon Cooked Ns As To Fat Added In Cooking,Vegetables,100 g,49,0.8,4.14,3.68,null,yes,null,null,null
+Bitter Melon Cooked Fat Not Added In Cooking,Vegetables,100 g,19,0.83,4.28,0.18,null,yes,null,null,null
+Bitter Melon Cooked Fat Added In Cooking,Vegetables,100 g,49,0.8,4.14,3.68,null,yes,null,null,null
+"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",Beans and Lentils,100 g,378,20,63,6,null,yes,null,null,null
+"Chickpeas (garbanzo beans, bengal gram), with salt, boiled, cooked, mature seeds",Beans and Lentils,100 g,164,8.9,27,2.6,null,yes,null,null,null
+"Chickpeas (garbanzo beans, bengal gram), without salt, boiled, cooked, mature seeds",Beans and Lentils,100 g,164,8.9,27,2.6,null,yes,null,null,null
+"Chickpeas (garbanzo beans, bengal gram), solids and liquids, canned, mature seeds",Beans and Lentils,100 g,88,4.9,13,2,null,yes,null,null,null
+Cooked Wild Rice,Grains and Pasta,100 g,101,3.99,21.34,0.34,null,yes,null,null,null
